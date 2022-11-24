@@ -1,0 +1,17 @@
+1. webpack -> Static module bundler for modern JavaScript applications.
+**In other words, Bundle all the files and gives minified code.
+https://webpack.js.org/
+
+2. babel ->Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards    compatible version of JavaScript in current and older browsers or environments.
+**In other words, convert modern  JS code to browser understable code.
+https://babeljs.io/
+
+3. loader -> handle how to load different file types.
+   
+4. plugin -> adds the additional functionality.     
+
+**install all deps**
+
+1.npm i -D @babel/core@7.18.2 babel-loader@8.2.5 @babel/preset-env@7.18.2 @babel/preset-react@7.17.12 css-loader@6.7.1 html-webpack-plugin@5.5.0 mini-css-extract-plugin@2.6.1 sass@1.54.5 sass-loader@13.0.2 style-loader@3.3.1 webpack@5.73.0 webpack-cli@4.9.2 webpack-dev-server@4.9.2
+
+2.npm i react@18 react-dom@18
